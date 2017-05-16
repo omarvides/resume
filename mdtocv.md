@@ -1,18 +1,19 @@
 # Walter Vides
 ## Senior Software Engineer
 
+> [Download PDF](resume.pdf)  
 > [omarvides@gmail.com](omarvides@gmail.com)  
 > (502) 3263 9616
 
 
 ------
 
-### Profile
+### Profile {#profile}
 
 Eager to learn, innovation and knowledge are my daily driver, I believe that the best solutions those that succeed finding the point where engenieering and product meet.
 ------
 
-### Skills
+### Skills {#skills}
 
 * Node.JS
   : More than 3 years of Node.JS development
@@ -31,7 +32,7 @@ Eager to learn, innovation and knowledge are my daily driver, I believe that the
 
 -------
 
-### Technical
+### Technical {#technical}
 
 1. Node.JS
 1. Javascript
@@ -46,7 +47,7 @@ Eager to learn, innovation and knowledge are my daily driver, I believe that the
 
 ------
 
-### Experience
+### Experience {#experience}
 
 Driver team
 : *Senior software engenieer at Xoom Corporation*
@@ -57,10 +58,10 @@ Tooling team
 : *Software engineer III at Paypal*
   __2016-Present__
   Responsabilities description
-
+  
 ------
 
-### Contact
+### Footer {#footer}
 
 Walter Vides -- [omarvides@gmail.com](omarvides@gmail.com) -- (502) 3263 9616
 
