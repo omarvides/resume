@@ -9,7 +9,7 @@
 
 ### Profile
 
-Eager to learn, innovation and knowledge are my daily driver, I believe that the best solutions those that succeed finding the point where engenieering and product meet.
+### Eager to learn, innovation and knowledge are my daily driver, I believe that the best solutions those that succeed finding the point where engenieering and product meet.
 ------
 
 ### Skills
