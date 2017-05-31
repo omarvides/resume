@@ -9,8 +9,18 @@
 
 ### Profile
 
-### Eager to learn, innovation and knowledge are my daily driver, I believe that the best solutions are those that succeed finding the point where engenieering and product meet.
+### Always learning, innovation is my daily driver, I believe that the best solutions are those that succeed finding the point where engenieering and product meet.
 ------
+
+------
+
+### Education
+
+* Computer science Engineer degree obtained on 2014
+* Actively studing Javascript and Node.JS, Books read: Javascript The good parts, Eloquent Javascript Among others
+* Currently learning Go language
+------
+
 
 ### Skills
 
@@ -48,14 +58,28 @@
 
 ### Experience
 
+## PideloRapido
+* Software Engineer
+  __Mid 2012 - 2013__
+  Core features development, deployment and new features creation
+
+* Senior Software Engineer
+  __December - 2013-2014__
+  In charge of company core features development
+  Collaboration on design and implementation of company's integration API
+
+* Lead Software Engineer
+  __Jun 2014 - December 2014__
+  Leaded the team on daily activities and solutions design
+
 Driver team
-: *Senior software engenieer at Xoom Corporation*
-  __2014-2017__
+* Senior software engenieer at Xoom Corporation a Paypal company
+  __December 2014- December 2016__
   Responsabilities description
 
 Tooling team
-: *Software engineer III at Paypal*
-  __2016-Present__
+* Devops Software engineer III at Xoom Corporation a Paypal company
+  __December 2016-Present__
   Responsabilities description
 
 ------
