@@ -17,6 +17,7 @@
 
 * Computer science Engineer degree obtained on 2014
 * Actively studing Javascript and Node.JS
+* Currently learning Go language, Puppet
 * Some relevant books I've read recently (among others): 
   * Javascript The good parts
   * Eloquent Javascript
@@ -24,8 +25,6 @@
   * Docker up and running
   * Puppet 3 
   * ES6 and Beyond
-  
-* Currently learning Go language, Puppet
 ------
 
 
@@ -66,28 +65,29 @@
 
 ## Xoom Corporation, a Paypal company
 
-Driver team
-* Senior software engenieer at Xoom Corporation a Paypal company
-  __December 2014- December 2016__
+### Driver team
+__December 2014 - December 2016__
+Senior software engenieer at Xoom Corporation a Paypal company
   Designed a complete solution for the team, using a distributed architecture based on RabbitMQ message broker 
   scheduling and rules feedback and self adjustment.
 
-Tooling team
-* Devops Software engineer III at Xoom Corporation a Paypal company
-  __December 2016-Present__
+### Tooling team
+__December 2016-Present__
+Devops Software engineer III at Xoom Corporation a Paypal company
   Development and support for other teams at the company using and configuring several technologies and applications such as Puppet, Jenkins, Artifactory, Golanguage
 
 ## PideloRapido
-* Software Engineer
+
+### Software Engineer
   __Mid 2012 - 2013__
   Core features development, deployment and new features creation
 
-* Senior Software Engineer
+### Senior Software Engineer
   __December - 2013-2014__
   In charge of company core features development
   Collaboration on design and implementation of company's integration API
 
-* Lead Software Engineer
+### Lead Software Engineer
   __Jun 2014 - December 2014__
   Leaded the team on daily activities and solutions design
 
@@ -96,5 +96,3 @@ Tooling team
 ### Contact
 
 Walter Vides -- [omarvides@gmail.com](omarvides@gmail.com) -- (502) 3263 9616
-
-------
