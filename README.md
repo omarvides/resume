@@ -24,6 +24,7 @@
   * Docker up and running
   * Puppet 3 
   * ES6 and Beyond
+  
 * Currently learning Go language, Puppet
 ------
 
