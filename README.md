@@ -16,7 +16,8 @@
 ### Education
 
 * Computer science Engineer degree obtained on 2014
-* Actively studing Javascript and Node.JS, Some relevant books I've read recently (among others): 
+* Actively studing Javascript and Node.JS
+* Some relevant books I've read recently (among others): 
   * Javascript The good parts
   * Eloquent Javascript
   * The phoenix project
