@@ -31,7 +31,7 @@
 ### Skills
 
 * Node.JS
-  : More than 3 years of Node.JS development
+  : Using Node.JS actively since Jun 2014, experience using javascript lints, creating modules, and designing solutions with node as base language
 
 * RabbitMQ
   : Solid experience using RabbitMQ which is message broker system, powerfull for automation and asyncronous and distributed architectures
