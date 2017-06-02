@@ -10,15 +10,20 @@
 ### Profile
 
 ### Always learning, innovation is my daily driver, I believe that the best solutions are those that succeed finding the point where engenieering and product meet.
-------
 
 ------
 
 ### Education
 
 * Computer science Engineer degree obtained on 2014
-* Actively studing Javascript and Node.JS, Books read: Javascript The good parts, Eloquent Javascript Among others
-* Currently learning Go language
+* Actively studing Javascript and Node.JS, Some relevant books I've read recently (among others): 
+  * Javascript The good parts
+  * Eloquent Javascript
+  * The phoenix project
+  * Docker up and running
+  * Puppet 3 
+  * ES6 and Beyond
+* Currently learning Go language, Puppet
 ------
 
 
@@ -48,11 +53,10 @@
 1. RabbitMQ
 1. Express.js
 1. Hapi.js
-1. Symfony
-1. PHP
 1. Git
 1. RESTful APIs 
-1. Solutions design
+1. Docker
+1. Vagrant
 
 ------
 
@@ -75,12 +79,13 @@
 Driver team
 * Senior software engenieer at Xoom Corporation a Paypal company
   __December 2014- December 2016__
-  Responsabilities description
+  Designed a complete solution for the team, using a distributed architecture based on RabbitMQ message broker 
+  scheduling and rules feedback and self adjustment.
 
 Tooling team
 * Devops Software engineer III at Xoom Corporation a Paypal company
   __December 2016-Present__
-  Responsabilities description
+  Development and support for other teams at the company using and configuring several technologies and applications such as Puppet, Jenkins, Artifactory, Golanguage
 
 ------
 
