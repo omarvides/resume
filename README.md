@@ -62,6 +62,19 @@
 
 ### Experience
 
+## Xoom Corporation, a Paypal company
+
+Driver team
+* Senior software engenieer at Xoom Corporation a Paypal company
+  __December 2014- December 2016__
+  Designed a complete solution for the team, using a distributed architecture based on RabbitMQ message broker 
+  scheduling and rules feedback and self adjustment.
+
+Tooling team
+* Devops Software engineer III at Xoom Corporation a Paypal company
+  __December 2016-Present__
+  Development and support for other teams at the company using and configuring several technologies and applications such as Puppet, Jenkins, Artifactory, Golanguage
+
 ## PideloRapido
 * Software Engineer
   __Mid 2012 - 2013__
@@ -75,17 +88,6 @@
 * Lead Software Engineer
   __Jun 2014 - December 2014__
   Leaded the team on daily activities and solutions design
-
-Driver team
-* Senior software engenieer at Xoom Corporation a Paypal company
-  __December 2014- December 2016__
-  Designed a complete solution for the team, using a distributed architecture based on RabbitMQ message broker 
-  scheduling and rules feedback and self adjustment.
-
-Tooling team
-* Devops Software engineer III at Xoom Corporation a Paypal company
-  __December 2016-Present__
-  Development and support for other teams at the company using and configuring several technologies and applications such as Puppet, Jenkins, Artifactory, Golanguage
 
 ------
 
