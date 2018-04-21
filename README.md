@@ -9,7 +9,7 @@
 
 ### About me
 
-### I believe the best solutions are those that succeed finding the middle point between engenieering and product quality.
+### I believe the best solutions are those that succeed finding the middle point between engineering and product quality.
 
 ------
 
@@ -32,7 +32,7 @@
   : Using Node.JS actively since Jun 2014, experience using javascript lints, creating modules, and designing solutions with node as base language
 
 * RabbitMQ
-  : Solid experience using RabbitMQ which is message broker system, powerfull for automation and asyncronous and distributed architectures
+  : Solid experience using RabbitMQ which is message broker system, powerfull for aEngineeringutomation and asyncronous and distributed architectures
 
 * Puppet
   : Provisioning language, infrastructure as code, useful to version and automate provision of deployment and testing environments
