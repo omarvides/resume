@@ -16,38 +16,11 @@
 ### Education
 
 * Computer science Engineer degree obtained on 2014
-* Actively studing Javascript and Node.JS
-* Some relevant books I've read recently (among others):
-  * Javascript The good parts
-  * Eloquent Javascript
-  * The phoenix project
-  * Docker up and running
-  * ES6 and Beyond
 ------
 
+### Technical Skills
 
-### Skills
-
-* Node.JS
-  : Using Node.JS actively since Jun 2014, experience using javascript lints, creating modules, and designing solutions with node as base language
-
-* RabbitMQ
-  : Solid experience using RabbitMQ which is message broker system, powerfull for aEngineeringutomation and asyncronous and distributed architectures
-
-* Puppet
-  : Provisioning language, infrastructure as code, useful to version and automate provision of deployment and testing environments
-
-* Express.js
-  : Experience in design and development of RESTful APIs using express.js
-
-* Hapi.js
-  : Experience designing and using Node.js framework Hapi.js
-
--------
-
-### Technical
-
-1. Node.JS
+1. NodeJS
 1. Javascript
 1. RabbitMQ
 1. Express.js
@@ -57,6 +30,13 @@
 1. Docker
 
 ------
+
+### NodeJS Experience
+
+1. RESTful APIs
+1. Chatbots with Hugo and API.ai
+1. Workers with Message Brokers (RabbitMQ)
+
 
 ### Experience
 
