@@ -37,9 +37,6 @@
 1. Chatbots with Hugo and API.ai
 1. Workers with Message Brokers (RabbitMQ)
 
-
-### Experience
-
 ## Xoom Corporation, a Paypal company
 
 ### Tooling team
