@@ -7,9 +7,9 @@
 
 ------
 
-### Profile
+### About me
 
-### Always learning, innovation is my daily driver, I believe that the best solutions are those that succeed finding the point where engenieering and product meet.
+### I believe the best solutions are those that succeed finding the middle point between engenieering and product quality.
 
 ------
 
@@ -17,13 +17,11 @@
 
 * Computer science Engineer degree obtained on 2014
 * Actively studing Javascript and Node.JS
-* Currently learning Go language, Puppet
 * Some relevant books I've read recently (among others):
   * Javascript The good parts
   * Eloquent Javascript
   * The phoenix project
   * Docker up and running
-  * Puppet 3
   * ES6 and Beyond
 ------
 
@@ -57,7 +55,6 @@
 1. Git
 1. RESTful APIs
 1. Docker
-1. Vagrant
 
 ------
 
@@ -65,16 +62,16 @@
 
 ## Xoom Corporation, a Paypal company
 
-### Driver team
-__December 2014 - December 2016__
-Senior software engenieer at Xoom Corporation a Paypal company
-  Designed a complete solution for the team, using a distributed architecture based on RabbitMQ message broker
-  scheduling and rules feedback and self adjustment.
-
 ### Tooling team
 __December 2016-Present__
-Devops Software engineer III at Xoom Corporation a Paypal company
-  Development and support for other teams at the company using and configuring several technologies and applications such as Puppet, Jenkins, Artifactory, Golanguage
+Devops (Promoted to Member of Technicall Staff) at Xoom Corporation a Paypal company
+  Development and support for other teams at the company using and configuring several technologies and applications such as Puppet, Jenkins, Artifactory, Golang, Ruby, Terraform, Packer
+
+### Driver team
+__December 2014 - December 2016__
+Senior software engenieer (Software Engineer 3) at Xoom Corporation a Paypal company
+  Designed a complete solution for the team, using a distributed architecture based on RabbitMQ message broker scheduling and rules feedback.
+
 
 ## PideloRapido
 
